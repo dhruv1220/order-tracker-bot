@@ -1,0 +1,1001 @@
+order_id,status,item
+39169,shipped,Headphones
+13569,shipped,Smartwatch
+76882,shipped,Smartphone
+91169,delivered,Keyboard
+70324,processing,Smartwatch
+24080,processing,Keyboard
+33334,delivered,Gaming Console
+45623,processing,Monitor
+40027,shipped,Headphones
+15339,pending,Keyboard
+60046,delivered,Laptop
+26640,canceled,Smartwatch
+34846,shipped,Sneakers
+65786,shipped,Headphones
+82852,pending,Keyboard
+45297,processing,Smartphone
+98691,shipped,Smartphone
+11564,processing,Mouse
+73777,delivered,Mouse
+59973,canceled,Sneakers
+98776,processing,Smartwatch
+25917,processing,Smartwatch
+68255,pending,Headphones
+30460,pending,Smartphone
+20915,delivered,Tablet
+82610,pending,Keyboard
+89601,processing,Smartphone
+78591,shipped,Smartwatch
+57215,delivered,Smartphone
+12003,shipped,Smartphone
+69294,canceled,Headphones
+30890,pending,Mouse
+68174,pending,Sneakers
+40483,delivered,Laptop
+71828,pending,Keyboard
+86179,shipped,Laptop
+29924,canceled,Monitor
+48483,delivered,Monitor
+66443,shipped,Mouse
+53202,processing,Mouse
+69636,delivered,Sneakers
+71085,processing,Smartphone
+41472,shipped,Mouse
+75024,canceled,Gaming Console
+31731,canceled,Tablet
+48488,processing,Keyboard
+79351,shipped,Gaming Console
+50491,processing,Keyboard
+57892,processing,Tablet
+83769,pending,Laptop
+88999,pending,Smartphone
+54712,shipped,Sneakers
+72369,delivered,Sneakers
+46478,pending,Keyboard
+40900,canceled,Keyboard
+41429,delivered,Gaming Console
+14851,delivered,Monitor
+67857,shipped,Headphones
+55845,canceled,Tablet
+99996,shipped,Smartwatch
+35398,delivered,Tablet
+85336,processing,Sneakers
+56448,delivered,Sneakers
+17225,processing,Keyboard
+14020,processing,Mouse
+67511,processing,Smartphone
+64198,processing,Headphones
+46752,processing,Headphones
+67382,shipped,Headphones
+49703,delivered,Headphones
+54629,pending,Laptop
+32720,shipped,Mouse
+21764,canceled,Tablet
+70286,delivered,Headphones
+68072,processing,Monitor
+36852,shipped,Smartwatch
+37577,processing,Smartwatch
+52200,canceled,Sneakers
+95298,delivered,Gaming Console
+28373,canceled,Laptop
+58606,canceled,Laptop
+15038,processing,Mouse
+59275,delivered,Keyboard
+49977,processing,Smartwatch
+89130,processing,Monitor
+88336,shipped,Smartphone
+63196,delivered,Mouse
+49811,delivered,Mouse
+48813,processing,Smartphone
+55973,canceled,Smartphone
+79350,pending,Keyboard
+66740,processing,Monitor
+25891,canceled,Smartwatch
+60271,delivered,Smartwatch
+86414,delivered,Headphones
+89436,pending,Smartwatch
+87622,delivered,Sneakers
+23579,canceled,Tablet
+67243,processing,Keyboard
+83532,canceled,Keyboard
+11371,shipped,Mouse
+75363,delivered,Mouse
+75733,canceled,Smartphone
+82831,delivered,Smartphone
+69539,pending,Tablet
+62477,processing,Smartphone
+52316,delivered,Monitor
+88839,delivered,Sneakers
+26563,shipped,Tablet
+18539,delivered,Gaming Console
+31548,pending,Headphones
+16125,processing,Mouse
+88832,pending,Laptop
+47143,delivered,Keyboard
+23471,processing,Headphones
+77928,shipped,Smartphone
+21507,delivered,Smartphone
+91777,processing,Keyboard
+90343,shipped,Smartphone
+76618,processing,Keyboard
+14037,delivered,Headphones
+54877,processing,Smartwatch
+95593,shipped,Tablet
+87375,delivered,Keyboard
+18181,shipped,Headphones
+61911,canceled,Headphones
+44880,pending,Smartphone
+17239,shipped,Gaming Console
+73115,delivered,Mouse
+55690,delivered,Monitor
+88917,delivered,Tablet
+66717,pending,Monitor
+14392,canceled,Smartphone
+54563,shipped,Tablet
+70825,pending,Monitor
+79486,canceled,Monitor
+73503,shipped,Keyboard
+47627,processing,Smartwatch
+85898,canceled,Smartphone
+62575,canceled,Tablet
+66463,canceled,Laptop
+50876,shipped,Smartphone
+55208,pending,Headphones
+77468,delivered,Keyboard
+43779,pending,Smartwatch
+81907,delivered,Tablet
+19759,canceled,Laptop
+92223,shipped,Gaming Console
+31740,pending,Tablet
+30740,shipped,Tablet
+97418,delivered,Smartwatch
+15425,shipped,Mouse
+20754,shipped,Sneakers
+27981,processing,Laptop
+75706,pending,Sneakers
+49138,canceled,Smartwatch
+45640,pending,Sneakers
+27339,canceled,Keyboard
+34084,canceled,Mouse
+40761,processing,Laptop
+62978,shipped,Smartphone
+46465,shipped,Mouse
+35020,delivered,Laptop
+91438,delivered,Laptop
+69908,canceled,Sneakers
+41143,shipped,Tablet
+85147,shipped,Mouse
+41461,pending,Mouse
+79940,canceled,Smartwatch
+34140,delivered,Smartwatch
+41548,shipped,Mouse
+89853,processing,Smartphone
+23795,delivered,Smartphone
+84593,canceled,Laptop
+17895,delivered,Laptop
+65273,shipped,Monitor
+94802,processing,Keyboard
+40680,delivered,Tablet
+87072,processing,Gaming Console
+93208,delivered,Keyboard
+38887,pending,Laptop
+38542,processing,Mouse
+32178,pending,Smartphone
+93420,processing,Sneakers
+56499,canceled,Keyboard
+95739,processing,Smartwatch
+17158,processing,Laptop
+62203,shipped,Monitor
+53991,pending,Gaming Console
+17603,pending,Sneakers
+32716,shipped,Smartwatch
+65439,processing,Sneakers
+90517,shipped,Sneakers
+19849,canceled,Gaming Console
+14219,pending,Monitor
+26406,canceled,Smartphone
+27781,processing,Keyboard
+58395,shipped,Headphones
+63125,pending,Tablet
+74686,shipped,Smartwatch
+58892,canceled,Smartwatch
+77885,canceled,Keyboard
+49102,pending,Monitor
+94303,processing,Keyboard
+21010,pending,Laptop
+98821,delivered,Smartwatch
+80556,shipped,Gaming Console
+90923,delivered,Laptop
+70665,pending,Keyboard
+48764,pending,Smartphone
+52937,delivered,Monitor
+95428,pending,Keyboard
+29572,delivered,Sneakers
+96744,shipped,Monitor
+35763,canceled,Gaming Console
+17371,pending,Sneakers
+83372,shipped,Smartwatch
+27955,canceled,Smartwatch
+10366,processing,Keyboard
+69208,pending,Smartphone
+19531,processing,Mouse
+46685,pending,Gaming Console
+72846,canceled,Smartphone
+32091,canceled,Tablet
+51213,pending,Sneakers
+18101,pending,Tablet
+21171,delivered,Monitor
+23918,delivered,Smartwatch
+23643,pending,Gaming Console
+20638,shipped,Headphones
+13329,pending,Mouse
+25432,processing,Keyboard
+69629,delivered,Keyboard
+53069,processing,Laptop
+29335,canceled,Tablet
+64409,shipped,Monitor
+86038,delivered,Smartwatch
+24219,delivered,Gaming Console
+41607,processing,Smartwatch
+40421,pending,Smartphone
+53939,canceled,Smartwatch
+83180,delivered,Keyboard
+66376,processing,Monitor
+38010,pending,Tablet
+29299,pending,Sneakers
+93679,processing,Smartwatch
+89763,shipped,Monitor
+96856,shipped,Tablet
+34926,processing,Sneakers
+95915,canceled,Laptop
+84252,pending,Gaming Console
+86185,delivered,Sneakers
+20735,processing,Monitor
+37719,pending,Laptop
+45412,canceled,Sneakers
+88646,shipped,Mouse
+44643,shipped,Mouse
+89922,pending,Smartwatch
+94987,delivered,Smartphone
+37245,processing,Headphones
+49855,shipped,Smartwatch
+87220,delivered,Keyboard
+68302,canceled,Tablet
+34210,canceled,Smartphone
+52766,delivered,Gaming Console
+85651,processing,Sneakers
+37091,delivered,Keyboard
+46418,pending,Sneakers
+25724,delivered,Sneakers
+18758,shipped,Smartwatch
+87490,delivered,Keyboard
+94750,delivered,Laptop
+23909,shipped,Laptop
+99362,shipped,Smartwatch
+51206,processing,Headphones
+33283,processing,Mouse
+25079,shipped,Gaming Console
+57790,delivered,Smartphone
+73427,canceled,Tablet
+45656,delivered,Mouse
+69186,processing,Monitor
+24044,processing,Gaming Console
+64530,pending,Sneakers
+70394,canceled,Sneakers
+37185,shipped,Tablet
+59638,shipped,Laptop
+45531,pending,Keyboard
+27128,processing,Monitor
+18396,canceled,Gaming Console
+50657,processing,Gaming Console
+75261,shipped,Smartphone
+12605,processing,Smartwatch
+26761,pending,Sneakers
+17625,processing,Headphones
+25764,pending,Keyboard
+58889,pending,Keyboard
+85285,pending,Tablet
+90182,processing,Gaming Console
+55352,pending,Sneakers
+72077,canceled,Gaming Console
+26738,canceled,Mouse
+78242,canceled,Smartwatch
+31514,shipped,Mouse
+30243,delivered,Headphones
+66924,shipped,Sneakers
+58014,shipped,Tablet
+27102,shipped,Smartwatch
+83890,delivered,Mouse
+41578,processing,Mouse
+79934,pending,Monitor
+45205,processing,Keyboard
+55434,pending,Monitor
+15807,pending,Keyboard
+96025,pending,Smartphone
+69960,delivered,Sneakers
+98716,shipped,Mouse
+48872,pending,Smartwatch
+78423,pending,Smartphone
+75406,shipped,Smartphone
+79707,pending,Monitor
+94120,delivered,Laptop
+16338,delivered,Tablet
+21938,pending,Laptop
+88636,pending,Keyboard
+35999,processing,Smartwatch
+10818,processing,Mouse
+29825,delivered,Tablet
+39879,delivered,Monitor
+64339,delivered,Gaming Console
+80203,processing,Gaming Console
+59057,canceled,Headphones
+66904,delivered,Laptop
+83915,canceled,Monitor
+67142,delivered,Laptop
+72522,delivered,Keyboard
+69209,canceled,Headphones
+77195,shipped,Sneakers
+81078,canceled,Smartphone
+71184,processing,Keyboard
+95772,pending,Tablet
+72255,processing,Smartwatch
+98837,pending,Smartwatch
+39929,delivered,Keyboard
+88402,pending,Smartwatch
+14540,pending,Mouse
+97831,pending,Gaming Console
+99777,processing,Monitor
+65443,shipped,Laptop
+56410,pending,Gaming Console
+23184,canceled,Gaming Console
+18195,pending,Keyboard
+64309,shipped,Monitor
+61792,shipped,Smartphone
+20971,shipped,Headphones
+17998,processing,Sneakers
+39366,shipped,Laptop
+67492,pending,Laptop
+73642,pending,Smartwatch
+66913,canceled,Smartphone
+77354,pending,Gaming Console
+47113,delivered,Headphones
+25158,canceled,Keyboard
+23071,shipped,Keyboard
+67789,canceled,Smartwatch
+59405,delivered,Sneakers
+19322,pending,Monitor
+92084,pending,Smartwatch
+78403,shipped,Sneakers
+74430,canceled,Monitor
+78063,shipped,Tablet
+86980,shipped,Laptop
+99568,processing,Smartphone
+85542,canceled,Sneakers
+87489,canceled,Tablet
+17364,canceled,Sneakers
+70287,processing,Headphones
+28977,shipped,Laptop
+13166,delivered,Keyboard
+34787,shipped,Keyboard
+43910,canceled,Monitor
+98436,delivered,Laptop
+94689,delivered,Headphones
+73211,processing,Monitor
+79960,canceled,Sneakers
+26593,processing,Keyboard
+69407,processing,Keyboard
+32044,processing,Smartwatch
+84453,pending,Monitor
+29582,canceled,Smartphone
+75480,shipped,Monitor
+48726,canceled,Smartphone
+55377,processing,Mouse
+62614,shipped,Mouse
+86889,shipped,Laptop
+79826,processing,Smartphone
+19951,canceled,Tablet
+83830,delivered,Mouse
+72676,shipped,Headphones
+12611,processing,Laptop
+78822,canceled,Smartphone
+54432,canceled,Mouse
+10354,processing,Laptop
+85434,shipped,Tablet
+80924,shipped,Smartwatch
+15276,pending,Sneakers
+50441,pending,Laptop
+47518,pending,Tablet
+14450,shipped,Mouse
+81771,shipped,Gaming Console
+64389,processing,Headphones
+71167,pending,Monitor
+37257,processing,Tablet
+99853,pending,Headphones
+37965,delivered,Tablet
+30412,pending,Mouse
+18087,delivered,Headphones
+66067,processing,Smartwatch
+17427,delivered,Mouse
+24571,shipped,Sneakers
+45181,canceled,Mouse
+66575,processing,Tablet
+18543,pending,Monitor
+24517,canceled,Smartwatch
+74671,pending,Keyboard
+77015,pending,Laptop
+43663,shipped,Keyboard
+92735,pending,Tablet
+79617,processing,Smartphone
+32454,canceled,Monitor
+53275,shipped,Monitor
+41878,pending,Monitor
+98761,pending,Laptop
+57873,canceled,Mouse
+63003,canceled,Smartwatch
+46577,canceled,Mouse
+34175,pending,Smartwatch
+66690,shipped,Sneakers
+76061,pending,Monitor
+61712,pending,Laptop
+70954,processing,Monitor
+28249,canceled,Gaming Console
+46248,canceled,Smartphone
+55940,delivered,Gaming Console
+68276,delivered,Gaming Console
+24484,pending,Sneakers
+83406,delivered,Gaming Console
+31832,pending,Smartphone
+72867,pending,Mouse
+69176,pending,Keyboard
+87551,processing,Keyboard
+16479,shipped,Mouse
+91459,shipped,Mouse
+32960,shipped,Mouse
+96998,canceled,Smartwatch
+26271,pending,Gaming Console
+67425,canceled,Gaming Console
+76879,shipped,Tablet
+68783,shipped,Monitor
+40847,canceled,Laptop
+44535,pending,Headphones
+34966,processing,Headphones
+21567,pending,Mouse
+53200,pending,Monitor
+33772,pending,Keyboard
+32239,canceled,Tablet
+97530,processing,Smartwatch
+17108,pending,Smartphone
+25187,shipped,Tablet
+31414,pending,Monitor
+83232,processing,Monitor
+68717,shipped,Smartwatch
+54086,shipped,Smartwatch
+48812,pending,Mouse
+76608,shipped,Monitor
+60510,pending,Smartphone
+27609,delivered,Smartwatch
+93369,canceled,Smartphone
+51324,pending,Smartphone
+53299,canceled,Tablet
+35288,processing,Gaming Console
+88533,processing,Smartphone
+96680,shipped,Headphones
+34015,delivered,Sneakers
+67970,canceled,Smartwatch
+65464,pending,Tablet
+52015,pending,Smartwatch
+19431,delivered,Headphones
+52238,canceled,Headphones
+60105,delivered,Laptop
+60512,pending,Gaming Console
+42720,shipped,Gaming Console
+74649,canceled,Headphones
+83225,delivered,Tablet
+72123,canceled,Smartphone
+32712,shipped,Headphones
+30487,shipped,Tablet
+12419,pending,Monitor
+27888,pending,Keyboard
+85341,canceled,Keyboard
+26957,processing,Smartphone
+76297,processing,Sneakers
+19408,delivered,Smartphone
+86432,delivered,Smartwatch
+27763,delivered,Smartphone
+28854,delivered,Monitor
+65590,delivered,Keyboard
+69811,delivered,Smartphone
+42945,processing,Smartwatch
+62997,canceled,Headphones
+96503,shipped,Monitor
+59063,processing,Monitor
+87613,processing,Tablet
+98361,processing,Headphones
+89340,canceled,Gaming Console
+47829,delivered,Gaming Console
+23000,pending,Sneakers
+31652,processing,Laptop
+61594,shipped,Tablet
+33554,shipped,Mouse
+30598,processing,Gaming Console
+36409,delivered,Smartwatch
+41173,pending,Sneakers
+14835,shipped,Laptop
+24164,pending,Gaming Console
+62048,processing,Laptop
+62136,pending,Tablet
+40170,shipped,Keyboard
+49135,delivered,Keyboard
+77967,delivered,Gaming Console
+93928,processing,Tablet
+86769,pending,Gaming Console
+40265,delivered,Monitor
+29801,pending,Tablet
+95107,pending,Monitor
+74765,processing,Gaming Console
+49995,delivered,Keyboard
+23407,processing,Sneakers
+16000,pending,Sneakers
+43169,canceled,Smartwatch
+88693,canceled,Smartwatch
+89548,pending,Smartphone
+10799,processing,Smartwatch
+89663,pending,Smartwatch
+50025,delivered,Smartphone
+48364,shipped,Monitor
+81546,shipped,Sneakers
+90595,pending,Smartphone
+29839,delivered,Smartphone
+95098,shipped,Keyboard
+34900,processing,Smartphone
+95697,canceled,Smartphone
+85542,pending,Smartwatch
+44599,shipped,Laptop
+65625,shipped,Monitor
+97280,processing,Gaming Console
+91259,delivered,Mouse
+83078,shipped,Keyboard
+50677,processing,Tablet
+51989,canceled,Smartwatch
+92910,delivered,Laptop
+89612,delivered,Sneakers
+22289,shipped,Sneakers
+31040,pending,Gaming Console
+29593,pending,Gaming Console
+45812,pending,Tablet
+61948,shipped,Keyboard
+24513,pending,Keyboard
+92152,shipped,Smartphone
+18917,canceled,Smartphone
+63086,delivered,Laptop
+24873,shipped,Laptop
+49022,processing,Sneakers
+12707,delivered,Keyboard
+64367,shipped,Tablet
+48357,pending,Mouse
+37957,shipped,Smartphone
+55832,pending,Keyboard
+52473,shipped,Mouse
+90216,delivered,Tablet
+94353,shipped,Smartphone
+36050,shipped,Mouse
+50617,pending,Gaming Console
+70601,pending,Smartphone
+20201,delivered,Tablet
+88328,canceled,Mouse
+53201,delivered,Tablet
+85630,canceled,Monitor
+31434,processing,Monitor
+80564,shipped,Gaming Console
+42046,shipped,Monitor
+75940,canceled,Mouse
+39717,pending,Gaming Console
+28226,shipped,Tablet
+71855,canceled,Monitor
+91464,canceled,Keyboard
+90300,processing,Keyboard
+99833,canceled,Keyboard
+19731,pending,Gaming Console
+58741,canceled,Smartphone
+29049,delivered,Headphones
+88337,shipped,Keyboard
+41045,delivered,Tablet
+31529,processing,Keyboard
+91991,canceled,Headphones
+73932,shipped,Monitor
+67052,processing,Laptop
+72224,canceled,Laptop
+27177,processing,Monitor
+88522,canceled,Smartphone
+25806,canceled,Headphones
+30500,shipped,Gaming Console
+90367,shipped,Laptop
+68793,canceled,Tablet
+73414,delivered,Smartphone
+19816,processing,Laptop
+72037,processing,Smartwatch
+54235,processing,Monitor
+39187,canceled,Tablet
+75319,processing,Tablet
+61936,delivered,Keyboard
+52592,canceled,Smartphone
+42294,delivered,Mouse
+52303,shipped,Sneakers
+81118,canceled,Monitor
+28934,processing,Sneakers
+42095,processing,Keyboard
+92497,pending,Monitor
+43975,delivered,Headphones
+36895,processing,Monitor
+37091,pending,Laptop
+48481,shipped,Laptop
+90045,processing,Tablet
+43847,shipped,Monitor
+97467,pending,Tablet
+20519,pending,Tablet
+66420,processing,Laptop
+12952,canceled,Smartphone
+59256,delivered,Gaming Console
+39929,delivered,Monitor
+81902,processing,Mouse
+16880,shipped,Smartwatch
+36751,shipped,Tablet
+66257,shipped,Smartphone
+90253,processing,Laptop
+87589,processing,Mouse
+95987,pending,Gaming Console
+26259,delivered,Gaming Console
+20842,processing,Keyboard
+42430,pending,Sneakers
+87202,pending,Gaming Console
+51138,processing,Monitor
+84983,canceled,Smartwatch
+23945,pending,Mouse
+96263,shipped,Keyboard
+35004,delivered,Smartphone
+39908,canceled,Monitor
+60396,canceled,Gaming Console
+37239,delivered,Smartphone
+41126,canceled,Mouse
+52571,shipped,Laptop
+89135,delivered,Smartphone
+81546,pending,Laptop
+89999,processing,Sneakers
+66142,canceled,Sneakers
+49645,pending,Gaming Console
+62426,shipped,Gaming Console
+58985,delivered,Smartphone
+84683,delivered,Laptop
+99704,canceled,Sneakers
+96632,processing,Keyboard
+83434,pending,Tablet
+34373,processing,Tablet
+12066,shipped,Gaming Console
+68853,canceled,Smartwatch
+18438,shipped,Smartwatch
+20934,processing,Keyboard
+40716,canceled,Laptop
+64023,delivered,Smartphone
+26654,canceled,Mouse
+68354,canceled,Sneakers
+58449,pending,Laptop
+34984,shipped,Headphones
+56072,shipped,Headphones
+15695,processing,Headphones
+61925,processing,Gaming Console
+51528,delivered,Keyboard
+41434,canceled,Headphones
+12142,shipped,Laptop
+56993,shipped,Keyboard
+57217,delivered,Mouse
+52536,processing,Gaming Console
+51946,shipped,Keyboard
+30226,shipped,Keyboard
+80557,shipped,Keyboard
+19388,delivered,Monitor
+85446,shipped,Tablet
+64738,canceled,Gaming Console
+28494,shipped,Tablet
+55951,shipped,Monitor
+69253,canceled,Tablet
+85873,processing,Keyboard
+76945,delivered,Smartphone
+46105,shipped,Smartwatch
+54289,delivered,Keyboard
+10966,pending,Smartphone
+87320,shipped,Gaming Console
+73556,pending,Keyboard
+30667,processing,Keyboard
+64208,processing,Gaming Console
+53222,pending,Mouse
+97364,shipped,Tablet
+32463,canceled,Sneakers
+94475,processing,Sneakers
+88657,delivered,Keyboard
+23352,shipped,Mouse
+55606,processing,Sneakers
+66928,shipped,Laptop
+23333,processing,Smartphone
+61196,shipped,Smartwatch
+85470,delivered,Sneakers
+49376,delivered,Laptop
+22501,shipped,Monitor
+46113,pending,Tablet
+99878,shipped,Sneakers
+19306,canceled,Laptop
+35586,processing,Mouse
+19594,pending,Sneakers
+61360,shipped,Smartwatch
+15790,shipped,Tablet
+81252,delivered,Gaming Console
+28907,pending,Monitor
+12173,processing,Laptop
+46946,shipped,Smartphone
+25584,pending,Gaming Console
+73635,canceled,Headphones
+62542,shipped,Sneakers
+50519,pending,Headphones
+70445,delivered,Smartphone
+89677,delivered,Smartwatch
+23626,canceled,Keyboard
+82349,shipped,Monitor
+59246,shipped,Headphones
+29338,shipped,Smartwatch
+96285,canceled,Gaming Console
+35455,processing,Smartwatch
+14918,processing,Gaming Console
+31183,canceled,Keyboard
+52689,processing,Tablet
+37712,pending,Sneakers
+74092,delivered,Laptop
+95202,processing,Headphones
+18815,processing,Sneakers
+14725,pending,Smartphone
+79042,canceled,Smartphone
+69080,delivered,Tablet
+75014,pending,Gaming Console
+24266,shipped,Headphones
+64322,processing,Gaming Console
+12095,delivered,Keyboard
+90927,delivered,Gaming Console
+75767,pending,Gaming Console
+89237,pending,Gaming Console
+38392,pending,Headphones
+76856,delivered,Tablet
+81102,pending,Laptop
+14988,delivered,Gaming Console
+57353,pending,Keyboard
+37222,delivered,Smartwatch
+87540,pending,Mouse
+41946,delivered,Smartwatch
+47805,pending,Keyboard
+69520,processing,Tablet
+12516,canceled,Laptop
+75831,processing,Tablet
+21624,pending,Monitor
+96414,delivered,Mouse
+48287,delivered,Keyboard
+38820,canceled,Smartwatch
+54636,canceled,Laptop
+72613,processing,Laptop
+18742,delivered,Smartphone
+67164,shipped,Monitor
+43309,canceled,Keyboard
+59335,shipped,Laptop
+80003,delivered,Laptop
+97353,processing,Tablet
+93550,pending,Keyboard
+76473,delivered,Smartwatch
+34808,pending,Laptop
+44541,shipped,Mouse
+10277,pending,Monitor
+63302,canceled,Monitor
+67218,pending,Monitor
+84390,pending,Tablet
+42326,shipped,Smartphone
+27103,pending,Laptop
+66093,canceled,Smartwatch
+88875,shipped,Gaming Console
+36466,canceled,Smartphone
+30676,pending,Tablet
+26116,canceled,Gaming Console
+39473,delivered,Keyboard
+24286,canceled,Gaming Console
+16210,canceled,Headphones
+77802,pending,Tablet
+90244,delivered,Smartwatch
+54297,delivered,Sneakers
+71806,delivered,Laptop
+69605,processing,Keyboard
+85342,processing,Smartphone
+40599,canceled,Sneakers
+63927,pending,Gaming Console
+99520,processing,Sneakers
+33205,shipped,Smartphone
+53043,delivered,Laptop
+25780,pending,Mouse
+17367,canceled,Monitor
+68714,pending,Smartphone
+59221,processing,Monitor
+65654,processing,Smartwatch
+32067,processing,Smartwatch
+43387,delivered,Mouse
+16971,canceled,Mouse
+22862,canceled,Keyboard
+27490,delivered,Mouse
+16837,pending,Headphones
+32391,processing,Sneakers
+41903,pending,Headphones
+85860,processing,Gaming Console
+26139,pending,Mouse
+48185,shipped,Laptop
+31516,pending,Laptop
+71539,canceled,Sneakers
+77675,delivered,Laptop
+82144,canceled,Laptop
+97933,pending,Smartwatch
+83066,pending,Gaming Console
+78584,delivered,Monitor
+78118,shipped,Keyboard
+53689,delivered,Keyboard
+38404,processing,Keyboard
+44343,shipped,Laptop
+89082,canceled,Mouse
+25866,processing,Gaming Console
+76692,processing,Mouse
+24763,canceled,Headphones
+49376,canceled,Keyboard
+48480,pending,Monitor
+96461,delivered,Gaming Console
+48182,processing,Headphones
+42809,canceled,Tablet
+24198,canceled,Smartphone
+36320,processing,Smartwatch
+11367,delivered,Tablet
+71985,canceled,Smartphone
+13505,canceled,Gaming Console
+72787,delivered,Mouse
+27294,processing,Headphones
+54104,canceled,Tablet
+24364,canceled,Gaming Console
+69032,canceled,Keyboard
+67524,delivered,Keyboard
+40322,pending,Smartphone
+18569,canceled,Laptop
+58155,canceled,Headphones
+85114,pending,Tablet
+72897,canceled,Smartwatch
+72820,processing,Laptop
+70095,delivered,Mouse
+61482,shipped,Keyboard
+24348,canceled,Laptop
+47564,canceled,Tablet
+44252,pending,Gaming Console
+76063,delivered,Gaming Console
+94540,processing,Sneakers
+26398,canceled,Smartphone
+24233,pending,Smartwatch
+82766,shipped,Sneakers
+13664,shipped,Smartwatch
+29110,pending,Monitor
+68528,canceled,Gaming Console
+51684,processing,Tablet
+34932,delivered,Keyboard
+20195,pending,Laptop
+35170,canceled,Smartwatch
+81695,shipped,Tablet
+55404,delivered,Laptop
+25726,canceled,Headphones
+50826,shipped,Mouse
+77839,delivered,Tablet
+73707,delivered,Sneakers
+25060,pending,Gaming Console
+76827,shipped,Gaming Console
+42326,pending,Gaming Console
+97034,shipped,Mouse
+25602,delivered,Headphones
+46192,canceled,Keyboard
+67077,canceled,Laptop
+52680,processing,Sneakers
+40545,pending,Monitor
+86054,shipped,Tablet
+35987,pending,Tablet
+93430,delivered,Keyboard
+10400,pending,Sneakers
+95442,shipped,Gaming Console
+74125,processing,Monitor
+65352,delivered,Laptop
+91615,shipped,Monitor
+66455,pending,Mouse
+83409,processing,Smartwatch
+91250,processing,Smartwatch
+40576,delivered,Keyboard
+43541,delivered,Keyboard
+78875,canceled,Keyboard
+34001,pending,Headphones
+61631,processing,Sneakers
+15141,pending,Mouse
+52889,processing,Smartphone
+22692,processing,Headphones
+46869,delivered,Mouse
+70107,delivered,Keyboard
+45263,processing,Laptop
+34638,pending,Smartphone
+20023,pending,Smartphone
+94994,delivered,Monitor
+95048,shipped,Laptop
+97701,processing,Tablet
+97903,pending,Smartwatch
+34499,delivered,Monitor
+19364,pending,Sneakers
+78405,pending,Keyboard
+79302,shipped,Smartwatch
+36625,pending,Mouse
+28637,pending,Smartphone
+73718,processing,Mouse
+80008,shipped,Tablet
+70764,processing,Monitor
+47908,pending,Gaming Console
+35421,processing,Gaming Console
+48741,canceled,Mouse
+95951,delivered,Smartphone
+80041,canceled,Tablet
+17507,delivered,Tablet
+59388,delivered,Keyboard
+65129,processing,Mouse
+76615,shipped,Mouse
+89548,delivered,Smartwatch
+47567,shipped,Keyboard
+17064,pending,Headphones
+10674,shipped,Tablet
+27916,delivered,Smartphone
+25821,delivered,Tablet
+94097,canceled,Mouse
+63017,canceled,Keyboard
+62025,pending,Sneakers
+15044,canceled,Gaming Console
+79857,canceled,Laptop
+94078,shipped,Keyboard
+52551,canceled,Mouse
+87687,delivered,Smartwatch
+16390,shipped,Gaming Console
+34754,processing,Keyboard
+74967,canceled,Smartwatch
+13511,canceled,Headphones
+93470,canceled,Laptop
+97354,shipped,Tablet
+76535,pending,Smartwatch
+71411,processing,Gaming Console
+33583,shipped,Sneakers
+62039,processing,Tablet
+10162,processing,Monitor
+33723,pending,Headphones
+47164,shipped,Smartwatch
+56445,canceled,Keyboard
+49105,canceled,Keyboard
+59411,pending,Sneakers
+51209,delivered,Gaming Console
+78720,shipped,Keyboard
+89638,shipped,Laptop
+30944,shipped,Headphones
+96848,canceled,Gaming Console
+59554,shipped,Smartwatch
+43788,pending,Laptop
+46842,canceled,Sneakers
+66098,pending,Keyboard
+75254,processing,Sneakers
+46174,processing,Monitor
+34111,pending,Gaming Console
+19508,canceled,Keyboard
+76993,shipped,Headphones
+34934,canceled,Laptop
+54590,shipped,Sneakers
+90527,processing,Tablet
+70006,delivered,Mouse
+99630,delivered,Smartwatch
+77803,shipped,Sneakers
+44929,processing,Headphones
+35287,pending,Gaming Console
+29886,pending,Gaming Console
+97924,delivered,Monitor
